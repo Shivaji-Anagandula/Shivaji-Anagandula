@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" width="100%" height="100%">
+<style>
+  .ascii { font-family: monospace; font-size: 8px; fill: #00F0FF; white-space: pre; }
+  @keyframes drawRow {{ to {{ width: 100%; }} }}
+</style>
+<rect width="100%" height="100%" fill="#0d1117" />
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.0s forwards;">
+    <text x="5" y="9" class="ascii">                                                            </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.04s forwards;">
+    <text x="5" y="18" class="ascii">                                                            </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.08s forwards;">
+    <text x="5" y="27" class="ascii">                                                            </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.12s forwards;">
+    <text x="5" y="36" class="ascii">                                                            </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.16s forwards;">
+    <text x="5" y="45" class="ascii">                                                            </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.2s forwards;">
+    <text x="5" y="54" class="ascii">                                                            </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.24s forwards;">
+    <text x="5" y="63" class="ascii">                           ,lIll"                           </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.28s forwards;">
+    <text x="5" y="72" class="ascii">                         +cwbbhbCf+                         </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.32s forwards;">
+    <text x="5" y="81" class="ascii">                        1w#W*opwkau`                        </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.36s forwards;">
+    <text x="5" y="90" class="ascii">                        z&amp;aLt[_?/mu'                        </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.4s forwards;">
+    <text x="5" y="99" class="ascii">                        [*Lfjj1jxc)                         </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.44s forwards;">
+    <text x="5" y="108" class="ascii">                        ,ru}?\jx1)]                         </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.48s forwards;">
+    <text x="5" y="117" class="ascii">                         I/x\/1(fv!                         </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.52s forwards;">
+    <text x="5" y="126" class="ascii">                          lOwZLOhw(~:`                      </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.56s forwards;">
+    <text x="5" y="135" class="ascii">                       ':[qbvQoMdxrurt([~"                  </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.6s forwards;">
+    <text x="5" y="144" class="ascii">                     :}\tO&amp;0(q8prrzxfjrucv&gt;                 </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.64s forwards;">
+    <text x="5" y="153" class="ascii">                    `ncxjwhab*pjtuftfruuxuv^                </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.68s forwards;">
+    <text x="5" y="162" class="ascii">                    :YvfUkbbbkn|xttuzCXcurv)                </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.72s forwards;">
+    <text x="5" y="171" class="ascii">                    ;JvxdakbaQ|xjncUZ0XXvxuX,               </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.76s forwards;">
+    <text x="5" y="180" class="ascii">                    iLuvo#aaoxcuxXXYwm0CXujxI               </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.8s forwards;">
+    <text x="5" y="189" class="ascii">                    }0uUM*a#mvXrucJUQbmvt)1(i               </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.84s forwards;">
+    <text x="5" y="198" class="ascii">                    xOuOMoh*QCunzYQQQpZYXnnv]               </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.88s forwards;">
+    <text x="5" y="207" class="ascii">                   "LqzdM**oUuzcYLOQCZopJzXw/               </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.92s forwards;">
+    <text x="5" y="216" class="ascii">                   ?0LCkMo*buuzzzYYUJZ0rtxJd)               </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 0.96s forwards;">
+    <text x="5" y="225" class="ascii">                   jLzUoM**hnuXzzXUJLLf/rzmX`               </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 1.0s forwards;">
+    <text x="5" y="234" class="ascii">                  ^JLUm#M**oXcUJzYJCLrfrvQQ,                </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 1.04s forwards;">
+    <text x="5" y="243" class="ascii">                  !wO0wWW#*#CcULJJCLxtxcLw_                 </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 1.08s forwards;">
+    <text x="5" y="252" class="ascii">                  +utJd8W#*MmUUC0wdqCzvXbY                  </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 1.12s forwards;">
+    <text x="5" y="261" class="ascii">                  tuLOo8W*h*hCC0ZLrX*MhwbL'                 </text>
+</g>
+<g style="clip-path: inset(0 0 0 0); animation: drawRow 0.5s ease-out 1.16s forwards;">
+    <text x="5" y="270" class="ascii">                 'cjUZ&amp;8WMoo#qmmj~~[\m*hw-                  </text>
+</g>
+</svg>
